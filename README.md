@@ -1,4 +1,4 @@
-IRCBot
+WF_Xtension
 ======
 
 Windows Forms eXtensions is a library for improved graphical performance when developing with .NET
